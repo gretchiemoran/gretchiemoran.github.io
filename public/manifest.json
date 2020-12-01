@@ -1,7 +1,7 @@
 { 
 	"name":"Everest Weather Portal", 
 	"short_name":"EWP", 
-	"start_url":"/", 
+	"start_url":"https://gretchiemoran.github.io/public/index.html", 
 	"display":"standalone", 
 	"background_color":"#5900b3", 
 	"theme_color":"black",  
