@@ -1,0 +1,21 @@
+{ 
+	"name":"Everest Weather Portal", 
+	"short_name":"EWP", 
+	"start_url":"/", 
+	"display":"standalone", 
+	"background_color":"#5900b3", 
+	"theme_color":"black",  
+	"description":"Everest Weather Portal", 
+	"icons":[ 
+		{ 
+		"src":"images/ngs_192.png",					 
+		"sizes":"192x192", 
+		"type":"image/png"
+		}, 
+		{ 
+		"src":"images/ngs_512.png", 
+		"sizes":"512x512", 
+		"type":"image/png"
+		} 
+	] 
+}
